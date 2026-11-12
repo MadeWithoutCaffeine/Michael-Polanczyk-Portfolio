@@ -11,6 +11,9 @@ These are projects I've worked on in class and on my own. Select a project to op
 | [Eclipson Vortex RC Airplane](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/rc-airplane/README.md) | A 3D-printed airplane build, from printing and assembly to electronics and flight preparation. | Paused · target: end of summer 2027 |
 | [MoDOT Bridge — 2026](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/modot-bridge-2026/README.md) | A balsa bridge competition build, including design decisions, construction, and testing. | Built · testing pending |
 | [Custom PC Build](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/custom-pc/README.md) | A compact PC build, from component research and assembly to an RTX 3080 upgrade. | Built and in use |
+| [FTC Robotics — Team 3665](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/ftc-robotics/README.md) | Programming, CAD, and custom-part production for the LEOPOLD Gear Heads. | Ongoing team work |
+| [Portable Workshop Design](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/portable-workshop/README.md) | Workspace layout and roof CAD for a separate workshop with a closable PC nook. | Design in progress |
+| [Airplane Wing Shape and Lift](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/wing-lift-study/README.md) | An eighth-grade science fair investigation into wing shape and lift. | Completed science fair project |
 
 ## Programming projects
 

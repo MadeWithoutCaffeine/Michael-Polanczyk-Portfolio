@@ -32,6 +32,12 @@ I'm also exploring research opportunities such as Non-Trivial. I want a project 
 
 I want to help younger students learn programming, Autodesk Inventor, and 3D printing. On the robotics team, I want to keep teaching teammates so more people can take on technical work and keep those skills on the team.
 
+## Design a dedicated workshop
+
+I’m designing a separate workshop with a continuous workbench and a lower PC desk area that can close off from dusty work. I want to develop the layout and roof model into a practical design, then work out materials and costs.
+
+[Portable workshop design](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/portable-workshop/README.md)
+
 ## Keep developing my photography
 
 I want to continue personal projects and small client shoots, try more macro photography, and build a portfolio that shows the work I'm proud of. I'm also continuing to learn Spanish.
