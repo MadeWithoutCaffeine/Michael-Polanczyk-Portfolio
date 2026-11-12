@@ -8,7 +8,7 @@ I'm a high school student interested in aerospace and mechanical engineering. I 
 
 I take PLTW pre-engineering at Cape CTC. On FTC Team 3665, the LEOPOLD Gear Heads, I handle programming, lead CAD design, and produce custom parts. Outside engineering, I spend time on photography, National Beta Club projects, and community service.
 
-[Engineering projects](engineering.md) · [Project ideas](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) · [Photo gallery](photography/gallery/README.md)
+[Engineering projects](engineering.md) · [Project ideas](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/project-ideas/README.md) · [Photo gallery](photography/gallery/README.md)
 
 ## Explore
 

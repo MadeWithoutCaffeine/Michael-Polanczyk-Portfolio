@@ -53,7 +53,7 @@ The engineering challenge involved designing and constructing a Rube Goldberg ma
 
 In eighth grade, I investigated **how the shape of an airplane wing affects its lift**. I presented my findings at the local science fair, received the highest honorable mention in my district, and earned a Naval Science Award at the SEMO science fair.
 
-[Wing-lift project overview](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/wing-lift-study/README.md)
+[Wing-lift project overview](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/wing-lift-study/README.md)
 
 ## Education and technical skills
 
