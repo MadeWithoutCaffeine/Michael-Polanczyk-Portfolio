@@ -12,7 +12,7 @@ These are projects I've worked on in class and on my own. Select a project to op
 | [MoDOT Bridge — 2026](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/modot-bridge-2026/README.md) | A balsa bridge competition build, including design decisions, construction, and testing. | Built · testing pending |
 | [Custom PC Build](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/custom-pc/README.md) | A compact PC build, from component research and assembly to an RTX 3080 upgrade. | Built and in use |
 | [FTC Robotics — Team 3665](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/ftc-robotics/README.md) | Programming, CAD, and custom-part production for the LEOPOLD Gear Heads. | Ongoing team work |
-| [Portable Workshop Design](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/portable-workshop/README.md) | Workspace layout and roof CAD for a separate workshop with a closable PC nook. | Design in progress |
+| [Portable Workshop Design](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/portable-workshop/README.md) | My CAD design for a portable workshop with an open workspace and a sliding-door office. | Design in progress |
 | [Airplane Wing Shape and Lift](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/wing-lift-study/README.md) | An eighth-grade science fair investigation into wing shape and lift. | Completed science fair project |
 
 ## Programming projects
@@ -29,7 +29,7 @@ These are projects I've worked on in class and on my own. Select a project to op
 
 | Collection | Focus | Status |
 | --- | --- | --- |
-| [Project Ideas and Planning](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Rough concepts in aerospace, rocketry certification, structures, photography, and controlled target shooting. | Rough concepts |
+| [Project Ideas and Planning](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Ideas for aircraft, rocketry, structures, photography, filament drying, and target shooting. | Rough concepts |
 
 ## Robotics
 

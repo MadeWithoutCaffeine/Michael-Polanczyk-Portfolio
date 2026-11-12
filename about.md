@@ -14,6 +14,8 @@ My Eclipson Vortex is one of my ongoing projects. I'm working through printing, 
 
 I use Autodesk Inventor for CAD and 3D printing to turn designs into usable parts. On FTC Team 3665, I handle the robot's programming and custom-part production, lead CAD design, and help with assembly and troubleshooting.
 
+At home, I use a Bambu Lab P2S with an AMS 2 Pro. I donated my previous P1S to my school so other students could learn to create their own projects.
+
 I also enjoy smaller independent projects. I built a gear ratio and torque calculator after becoming interested in the equations in engineering class. Building my PC involved researching components, checking compatibility, and deciding which parts made sense for my use.
 
 [See my engineering projects](engineering.md) · [More about robotics](robotics.md)

@@ -34,7 +34,9 @@ I want to help younger students learn programming, Autodesk Inventor, and 3D pri
 
 ## Design a dedicated workshop
 
-I’m designing a separate workshop with a continuous workbench and a lower PC desk area that can close off from dusty work. I want to develop the layout and roof model into a practical design, then work out materials and costs.
+I currently share an office with three other family members, so I want a separate place for my tools, printing equipment, and projects. I'm designing an open main workshop with a sliding door that can close off the office.
+
+I'm modeling the design in Inventor before spending money on the build. I also want to build a filament dryer that uses electricity efficiently and decide whether to move my desktop into the office or build another setup for CAD and programming.
 
 [Portable workshop design](https://github.com/CodedWithCaffein/Engineering---Projects/blob/main/projects/portable-workshop/README.md)
 

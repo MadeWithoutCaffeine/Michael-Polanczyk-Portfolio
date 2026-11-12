@@ -35,6 +35,8 @@ The engineering challenge involved designing and constructing a Rube Goldberg ma
 
 ## Community service
 
+**3D-printer donation:** I donated my Bambu Lab P1S to my school so other students could learn to design and make things.
+
 **Summer school mentoring:** I support younger students as a summer school mentor.
 
 **Beta dumpling fundraiser:** Twice a year, I help prepare dumplings to raise funds for our Beta Club and its activities.

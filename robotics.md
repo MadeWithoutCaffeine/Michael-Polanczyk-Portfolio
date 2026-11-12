@@ -8,7 +8,9 @@ I am in my third year of official membership with the LEOPOLD Gear Heads, follow
 
 I handle the team's programming, lead CAD design in Autodesk Inventor, and take care of 3D printing and custom-part production. I also help with the robot's design, assembly, and troubleshooting.
 
-That work connects the software to the physical robot: a mechanism needs parts that fit, and the controls need to work with the finished assembly. I work across both sides and help teammates learn parts of the process.
+I work on both the parts and the code, then help troubleshoot them on the assembled robot. I also teach teammates parts of the process.
+
+I donated my Bambu Lab P1S to my school so other students could use it and learn to create their own parts and projects. My current home printer is a Bambu Lab P2S with an AMS 2 Pro.
 
 ## Responsibilities
 
