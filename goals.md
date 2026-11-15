@@ -4,7 +4,11 @@
 
 ## Study aerospace and mechanical engineering
 
-My goal is to attend Missouri S&T and pursue a dual major in aerospace and mechanical engineering. For now, I'm building that foundation through PLTW pre-engineering, dual-credit coursework, robotics, and projects of my own.
+After graduating high school, I plan to attend Missouri S&T and dual major in aerospace and mechanical engineering. I'm also interested in a business minor, or another minor that complements my engineering work and helps me contribute more in my career. I haven't settled on the minor yet.
+
+I want to work on design teams and become involved in research and development, potentially with aircraft, spacecraft, radar, or flight systems. I want the work I do to help people and contribute to technology that is useful beyond the project itself.
+
+For now, I'm building that foundation through PLTW pre-engineering, dual-credit coursework, robotics, and projects of my own.
 
 In college, I want to join student engineering teams and work on aircraft and mechanical systems. I want more experience testing designs and understanding why they succeed or fail.
 

@@ -4,7 +4,9 @@
 
 [Home](README.md) · [About me](about.md) · [Engineering](engineering.md) · [Robotics](robotics.md) · [Experience](experience.md) · [Awards](awards/README.md) · [Sports](sports.md) · [Goals](goals.md) · [Photography](photography/README.md)
 
-I'm a high school student interested in aerospace and mechanical engineering. I like designing things, figuring out how they work, and getting them built. My projects range from RC aircraft and robot parts to a gear calculator, a custom PC, and a workshop design.
+I'm a high school junior planning to attend Missouri S&T after graduation and dual major in aerospace and mechanical engineering. I like designing things, figuring out how they work, and getting them built. My projects range from RC aircraft and robot parts to a gear calculator, a custom PC, and a workshop design.
+
+I'm also considering a business minor or another minor that supports my engineering career and interest in useful research and development.
 
 I take PLTW pre-engineering at Cape CTC. On FTC Team 3665, the LEOPOLD Gear Heads, I handle programming, lead CAD design, and produce custom parts. Outside engineering, I spend time on photography, National Beta Club projects, and community service.
 
