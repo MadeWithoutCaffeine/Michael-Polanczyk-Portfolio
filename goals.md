@@ -20,17 +20,31 @@ I'd also like to keep designing, building, and flying FPV drones, gliders, and R
 
 ## Get into rocketry
 
+Two classmates and I are working with our engineering instructor on designs and ideas for the American Rocketry Challenge. We're still in the early planning stage. I want to help develop a design, test it, and use the results to make improvements as a team.
+
+[Our rocketry project](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/american-rocketry-challenge/README.md)
+
 I want to start building and flying rockets and work toward Level 1 high-power rocketry certification. I’m comparing a supervised junior route with preparing for adult certification after 18.
 
 [My rocketry planning notes](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/project-ideas/rocketry-l1.md)
 
 [Future project ideas](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/project-ideas/README.md)
 
-## Return to research
+## Apply to Non-Trivial
 
-I'm considering another science fair project before graduation. I'd like to take a question from one of my technical interests and investigate it with measurements, repeated tests, and a clear record of what changed.
+I'm applying to Non-Trivial and hope I get accepted. I know there are many other applicants, so I haven't committed to a project yet. I have a few ideas, but I want to choose after I know whether I'm accepted and can think through which question I could investigate well.
 
-I'm also exploring research opportunities such as Non-Trivial. I want a project with a useful question and results that go beyond simply getting a build to work.
+A friend is applying too. If one of us gets accepted, we plan to help that person with the project and contribute together. I'd like us both to learn from the work, even if only one of us gets in.
+
+[My Non-Trivial research plans](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/non-trivial-research/README.md)
+
+## Return to the SEMO science fair
+
+I'm considering competing at the SEMO science fair again during both my junior and senior years. I could use a question from one of my projects, Non-Trivial research if I'm accepted, rocketry, aircraft design, or something new.
+
+I haven't chosen a topic. I want to pick a question I can investigate with repeatable measurements, keep a clear record of the work, and explain what the results actually show. Before using research from another program or a team project, I would check the fair's requirements and make everyone's contributions clear.
+
+[Possible science fair directions](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/semo-science-fair-plans/README.md)
 
 ## Teach more of what I know
 

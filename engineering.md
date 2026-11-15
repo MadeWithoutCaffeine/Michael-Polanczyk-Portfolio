@@ -14,6 +14,7 @@ These are projects I've worked on in class and on my own. Select a project to op
 | [FTC Robotics — Team 3665](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/ftc-robotics/README.md) | Programming, CAD, and custom-part production for the LEOPOLD Gear Heads. | Ongoing team work |
 | [Portable Workshop Design](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/portable-workshop/README.md) | My CAD design for a portable workshop with an open workspace and a sliding-door office. | Design in progress |
 | [Airplane Wing Shape and Lift](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/wing-lift-study/README.md) | An eighth-grade science fair investigation into wing shape and lift. | Completed science fair project |
+| [American Rocketry Challenge](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/american-rocketry-challenge/README.md) | A three-student rocketry project developing competition ideas with our engineering instructor. | Early design and planning |
 
 ## Programming projects
 
@@ -27,8 +28,10 @@ These are projects I've worked on in class and on my own. Select a project to op
 
 ## Planned projects
 
-| Collection | Focus | Status |
+| Project or collection | Focus | Status |
 | --- | --- | --- |
+| [Non-Trivial — Research Plans](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/non-trivial-research/README.md) | My application, possible research directions, and plans to collaborate with a friend. | Applying · acceptance and topic undecided |
+| [SEMO Science Fair — Future Research](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/semo-science-fair-plans/README.md) | Possible junior- and senior-year research entries, with a topic still to choose. | Considering junior- and senior-year entries · topic undecided |
 | [Project Ideas and Planning](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/project-ideas/README.md) | Ideas for aircraft, rocketry, structures, photography, filament drying, and target shooting. | Rough concepts |
 
 ## Robotics

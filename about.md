@@ -38,7 +38,11 @@ I'd like to return to that kind of work with the CAD, printing, and programming 
 
 My Eclipson Vortex is an ongoing RC airplane build. I'm using Eclipson's aircraft design and working through printing, assembly, component choices, and integration myself. The build has had delays, and my goal is to finish it by the end of summer 2027. It has given me experience with the practical work that comes between having a set of plans and getting an aircraft ready to fly.
 
-I'm also interested in rocketry and want to work toward Level 1 high-power certification. That's a future goal, and I still have the building, mentoring, and certification process ahead of me.
+Two classmates and I are working with our engineering instructor on designs and ideas for the [American Rocketry Challenge](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/american-rocketry-challenge/README.md). We're still developing ideas, but I want to try competing and learn more about designing and testing rockets as a team. I also want to work toward Level 1 high-power certification as a separate personal goal.
+
+I'm applying to [Non-Trivial](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/non-trivial-research/README.md). I hope I get accepted, but I haven't chosen a research topic yet. A friend is applying too, and we plan to support whichever of us gets accepted and contribute to the work together.
+
+I'm also considering returning to the [SEMO science fair during my junior and senior years](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/semo-science-fair-plans/README.md). I might build a research question around Non-Trivial, rocketry, aircraft design, another existing project, or a new idea. I want to choose based on what I can investigate well.
 
 [My engineering projects](engineering.md) · [Wing-lift project](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/wing-lift-study/README.md)
 

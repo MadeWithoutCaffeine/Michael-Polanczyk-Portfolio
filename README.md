@@ -12,6 +12,8 @@ I take PLTW pre-engineering at Cape CTC. On FTC Team 3665, the LEOPOLD Gear Head
 
 [Engineering projects](engineering.md) · [Project ideas](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/project-ideas/README.md) · [Photo gallery](photography/gallery/README.md)
 
+I'm applying to Non-Trivial, developing American Rocketry Challenge ideas with two classmates and our engineering instructor, and considering a return to the SEMO science fair during my junior and senior years. My research topic is still undecided. [More about these plans](goals.md#apply-to-non-trivial)
+
 ## Explore
 
 | Section | What you'll find |

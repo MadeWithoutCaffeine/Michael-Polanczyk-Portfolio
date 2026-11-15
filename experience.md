@@ -4,7 +4,7 @@
 
 My experience includes robotics, National Beta Club competitions, research, and community service.
 
-[Robotics](#ftc-robotics) · [Beta Club](#national-beta-club) · [Service](#community-service) · [Research](#science-fair-research) · [Skills](#education-and-technical-skills)
+[Robotics](#ftc-robotics) · [Beta Club](#national-beta-club) · [Service](#community-service) · [Research](#science-fair-research) · [Current plans](#research-and-competition-plans) · [Skills](#education-and-technical-skills)
 
 ## FTC robotics
 
@@ -54,6 +54,16 @@ The engineering challenge involved designing and constructing a Rube Goldberg ma
 In eighth grade, I investigated **how the shape of an airplane wing affects its lift**. I presented my findings at the local science fair, received the highest honorable mention in my district, and earned a Naval Science Award at the SEMO science fair.
 
 [Wing-lift project overview](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/wing-lift-study/README.md)
+
+## Research and competition plans
+
+Two classmates and I are working with our engineering instructor on designs and ideas for the American Rocketry Challenge. We're at the early design stage, and I want to build on my CAD and robotics experience while learning more about rocketry with the team.
+
+I'm applying to Non-Trivial and have several possible research directions in mind. A friend is applying too, and we plan to support whichever of us gets accepted. Acceptance and the project topic are still undecided.
+
+I'm also considering the SEMO science fair during my junior and senior years. Possible topics include Non-Trivial research, rocketry, aircraft design, another project, or a new idea. These are plans for future participation.
+
+[Team rocketry](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/american-rocketry-challenge/README.md) · [Research plans](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/non-trivial-research/README.md) · [Future science fair work](https://github.com/MadeWithoutCaffeine/Engineering---Projects/blob/main/projects/semo-science-fair-plans/README.md)
 
 ## Education and technical skills
 
